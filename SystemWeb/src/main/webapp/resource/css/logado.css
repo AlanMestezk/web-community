@@ -1,0 +1,23 @@
+body{
+	background-color:  #ffffff;
+	font-family: sans-serif;
+	font-weight:bolder;
+	color: #000000;
+}
+
+.div1{
+	padding-top:40px;
+	background-color:#ffffff;
+	text-align: center;
+}
+
+.div2{
+	padding-top:40px;
+	background-color:#c0c0c0;
+	text-align: center;
+}
+
+img{
+	width:"300px"
+
+}
