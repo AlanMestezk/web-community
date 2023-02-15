@@ -1,0 +1,26 @@
+body{
+	background-color: #000080;
+}
+
+
+
+.divCenter{
+	margin-top: 100px;
+	background-color: #794f00;
+	border-radius: 80px solid;
+	font-family: sans-serif;
+	color: #ffffff;
+	font-weight: bolder;
+	text-align: center;
+}
+
+a{
+	background-color: white;
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	background-color: black;
+	color:white;
+}
